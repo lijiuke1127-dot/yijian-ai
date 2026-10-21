@@ -45,15 +45,15 @@
 
 ### 一分钟了解一见AI
 
-[![下载观看一见AI功能介绍视频](assets/images/product-video-cover.jpg)](https://github.com/lijiuke-afk/yijian-ai/raw/refs/heads/main/assets/videos/product-introduction.mp4)
+[![下载观看一见AI功能介绍视频](assets/images/product-video-cover.jpg)](https://github.com/lijiuke1127-dot/yijian-ai/raw/refs/heads/main/assets/videos/product-introduction.mp4)
 
-**[下载功能介绍视频，约60秒](https://github.com/lijiuke-afk/yijian-ai/raw/refs/heads/main/assets/videos/product-introduction.mp4)** · [查看仓库原文件](assets/videos/product-introduction.mp4)
+**[下载功能介绍视频，约60秒](https://github.com/lijiuke1127-dot/yijian-ai/raw/refs/heads/main/assets/videos/product-introduction.mp4)** · [查看仓库原文件](assets/videos/product-introduction.mp4)
 
 ### 个人微信接入 AI Agent
 
-[![下载观看个人微信AI Agent演示](assets/images/wechat-video-cover.jpg)](https://github.com/lijiuke-afk/yijian-ai/raw/refs/heads/main/assets/videos/wechat-agent-demo.mp4)
+[![下载观看个人微信AI Agent演示](assets/images/wechat-video-cover.jpg)](https://github.com/lijiuke1127-dot/yijian-ai/raw/refs/heads/main/assets/videos/wechat-agent-demo.mp4)
 
-**[下载微信 Agent 演示，约53秒](https://github.com/lijiuke-afk/yijian-ai/raw/refs/heads/main/assets/videos/wechat-agent-demo.mp4)** · [查看仓库原文件](assets/videos/wechat-agent-demo.mp4)
+**[下载微信 Agent 演示，约53秒](https://github.com/lijiuke1127-dot/yijian-ai/raw/refs/heads/main/assets/videos/wechat-agent-demo.mp4)** · [查看仓库原文件](assets/videos/wechat-agent-demo.mp4)
 
 点击封面或下载链接保存后播放。两段视频均保留原始文件。视频中的界面和功能以录制时版本为准，新版界面见下方截图与[功能说明](docs/features.md)。
 
@@ -139,7 +139,7 @@
 
 这是使用文档与产品资源仓库，**不是一见AI核心程序的源码仓库**。文档、图片与视频的公开不代表授予一见AI软件源码、商标或产品的开源许可；详见[版权与使用说明](COPYRIGHT.md)。
 
-使用问题或文档建议可通过 [Issues](https://github.com/lijiuke-afk/yijian-ai/issues)反馈。提交时请说明系统版本、应用版本、平台和复现步骤，并遮挡聊天隐私、联系方式、订单、密钥等信息。
+使用问题或文档建议可通过 [Issues](https://github.com/lijiuke1127-dot/yijian-ai/issues)反馈。提交时请说明系统版本、应用版本、平台和复现步骤，并遮挡聊天隐私、联系方式、订单、密钥等信息。
 
 ## 添加微信，了解一见AI
 
